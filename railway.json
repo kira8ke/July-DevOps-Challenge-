@@ -1,0 +1,5 @@
+{
+  "build": {
+    "root": "week1-ci-cd-docker"
+  }
+}
