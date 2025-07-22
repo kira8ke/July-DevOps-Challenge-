@@ -1,6 +1,6 @@
 # Week 1 – CI/CD Pipeline with Docker 🐳 
 
-##access it on https://july-devops-challenge.onrender.com
+# View it on https://july-devops-challenge.onrender.com
 
 ## Goal
 
